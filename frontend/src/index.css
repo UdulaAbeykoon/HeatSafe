@@ -1,0 +1,97 @@
+:root {
+  --bg-dark: #0f172a;
+  --bg-panel: rgba(30, 41, 59, 0.85);
+  /* Glassy */
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --accent: #38bdf8;
+  /* Sky blue */
+  --accent-glow: rgba(56, 189, 248, 0.3);
+  --danger: #ef4444;
+  --success: #22c55e;
+  --font-main: 'Inter', sans-serif;
+  --border-radius: 12px;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-main);
+  background-color: var(--bg-dark);
+  color: var(--text-primary);
+  overflow: hidden;
+  /* App style */
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 4px;
+}
+
+/* Utility Classes */
+.glass-panel {
+  background: var(--bg-panel);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: var(--border-radius);
+  padding: 1rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+.title-gradient {
+  background: linear-gradient(135deg, #fff 0%, #38bdf8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: #0f172a;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-primary:hover {
+  box-shadow: 0 0 15px var(--accent-glow);
+  transform: translateY(-1px);
+}
+
+.leaflet-container {
+  background: #000 !important;
+  /* Force black background for map holes */
+}
+
+/* Custom Tooltips for Map */
+/* Custom Tooltips for Map */
+.custom-tooltip {
+  background: rgba(0, 0, 0, 0.8);
+  border: 1px solid #333;
+  color: white;
+  border-radius: 4px;
+}
+
+/* Dark Mode Controls */
+input[type=number] {
+  color-scheme: dark;
+}

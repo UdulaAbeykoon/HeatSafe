@@ -1,0 +1,642 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_0_0",
+        "name": "Sydenham",
+        "demographics": {
+          "pop_density": 2448,
+          "seniors_pct": 0.29,
+          "low_income_pct": 0.03,
+          "social_isolation_risk": 0.46
+        },
+        "environment": {
+          "tree_canopy_pct": 0.48,
+          "impervious_surface_pct": 0.36,
+          "avg_surface_temp_summer": 26.2
+        },
+        "assets": {
+          "cooling_centres": 1,
+          "libraries": 0
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.55,
+              44.26
+            ],
+            [
+              -76.525,
+              44.26
+            ],
+            [
+              -76.525,
+              44.2475
+            ],
+            [
+              -76.55,
+              44.2475
+            ],
+            [
+              -76.55,
+              44.26
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_0_1",
+        "name": "Portsmouth",
+        "demographics": {
+          "pop_density": 2649,
+          "seniors_pct": 0.14,
+          "low_income_pct": 0.64,
+          "social_isolation_risk": 0.51
+        },
+        "environment": {
+          "tree_canopy_pct": 0.26,
+          "impervious_surface_pct": 0.63,
+          "avg_surface_temp_summer": 30.0
+        },
+        "assets": {
+          "cooling_centres": 0,
+          "libraries": 0
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.525,
+              44.26
+            ],
+            [
+              -76.5,
+              44.26
+            ],
+            [
+              -76.5,
+              44.2475
+            ],
+            [
+              -76.525,
+              44.2475
+            ],
+            [
+              -76.525,
+              44.26
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_0_2",
+        "name": "Williamsville",
+        "demographics": {
+          "pop_density": 2613,
+          "seniors_pct": 0.28,
+          "low_income_pct": 0.23,
+          "social_isolation_risk": 0.52
+        },
+        "environment": {
+          "tree_canopy_pct": 0.24,
+          "impervious_surface_pct": 0.7,
+          "avg_surface_temp_summer": 30.8
+        },
+        "assets": {
+          "cooling_centres": 0,
+          "libraries": 0
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.5,
+              44.26
+            ],
+            [
+              -76.475,
+              44.26
+            ],
+            [
+              -76.475,
+              44.2475
+            ],
+            [
+              -76.5,
+              44.2475
+            ],
+            [
+              -76.5,
+              44.26
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_0_3",
+        "name": "King's Town",
+        "demographics": {
+          "pop_density": 5255,
+          "seniors_pct": 0.15,
+          "low_income_pct": 0.45,
+          "social_isolation_risk": 0.23
+        },
+        "environment": {
+          "tree_canopy_pct": 0.13,
+          "impervious_surface_pct": 0.76,
+          "avg_surface_temp_summer": 31.9
+        },
+        "assets": {
+          "cooling_centres": 1,
+          "libraries": 0
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.475,
+              44.26
+            ],
+            [
+              -76.44999999999999,
+              44.26
+            ],
+            [
+              -76.44999999999999,
+              44.2475
+            ],
+            [
+              -76.475,
+              44.2475
+            ],
+            [
+              -76.475,
+              44.26
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_1_0",
+        "name": "Pittsburgh",
+        "demographics": {
+          "pop_density": 3433,
+          "seniors_pct": 0.13,
+          "low_income_pct": 0.61,
+          "social_isolation_risk": 0.46
+        },
+        "environment": {
+          "tree_canopy_pct": 0.23,
+          "impervious_surface_pct": 0.65,
+          "avg_surface_temp_summer": 30.4
+        },
+        "assets": {
+          "cooling_centres": 0,
+          "libraries": 1
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.55,
+              44.2475
+            ],
+            [
+              -76.525,
+              44.2475
+            ],
+            [
+              -76.525,
+              44.235
+            ],
+            [
+              -76.55,
+              44.235
+            ],
+            [
+              -76.55,
+              44.2475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_1_1",
+        "name": "Collins-Bayridge",
+        "demographics": {
+          "pop_density": 6779,
+          "seniors_pct": 0.23,
+          "low_income_pct": 0.49,
+          "social_isolation_risk": 0.52
+        },
+        "environment": {
+          "tree_canopy_pct": 0.32,
+          "impervious_surface_pct": 0.53,
+          "avg_surface_temp_summer": 28.7
+        },
+        "assets": {
+          "cooling_centres": 0,
+          "libraries": 0
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.525,
+              44.2475
+            ],
+            [
+              -76.5,
+              44.2475
+            ],
+            [
+              -76.5,
+              44.235
+            ],
+            [
+              -76.525,
+              44.235
+            ],
+            [
+              -76.525,
+              44.2475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_1_2",
+        "name": "Lakeside",
+        "demographics": {
+          "pop_density": 2386,
+          "seniors_pct": 0.32,
+          "low_income_pct": 0.3,
+          "social_isolation_risk": 0.15
+        },
+        "environment": {
+          "tree_canopy_pct": 0.52,
+          "impervious_surface_pct": 0.31,
+          "avg_surface_temp_summer": 25.5
+        },
+        "assets": {
+          "cooling_centres": 0,
+          "libraries": 0
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.5,
+              44.2475
+            ],
+            [
+              -76.475,
+              44.2475
+            ],
+            [
+              -76.475,
+              44.235
+            ],
+            [
+              -76.5,
+              44.235
+            ],
+            [
+              -76.5,
+              44.2475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_1_3",
+        "name": "Loyalist",
+        "demographics": {
+          "pop_density": 7947,
+          "seniors_pct": 0.17,
+          "low_income_pct": 0.03,
+          "social_isolation_risk": 0.12
+        },
+        "environment": {
+          "tree_canopy_pct": 0.59,
+          "impervious_surface_pct": 0.3,
+          "avg_surface_temp_summer": 25.0
+        },
+        "assets": {
+          "cooling_centres": 0,
+          "libraries": 0
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.475,
+              44.2475
+            ],
+            [
+              -76.44999999999999,
+              44.2475
+            ],
+            [
+              -76.44999999999999,
+              44.235
+            ],
+            [
+              -76.475,
+              44.235
+            ],
+            [
+              -76.475,
+              44.2475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_2_0",
+        "name": "Cataraqui North",
+        "demographics": {
+          "pop_density": 4104,
+          "seniors_pct": 0.35,
+          "low_income_pct": 0.06,
+          "social_isolation_risk": 0.48
+        },
+        "environment": {
+          "tree_canopy_pct": 0.43,
+          "impervious_surface_pct": 0.48,
+          "avg_surface_temp_summer": 27.6
+        },
+        "assets": {
+          "cooling_centres": 1,
+          "libraries": 0
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.55,
+              44.235
+            ],
+            [
+              -76.525,
+              44.235
+            ],
+            [
+              -76.525,
+              44.2225
+            ],
+            [
+              -76.55,
+              44.2225
+            ],
+            [
+              -76.55,
+              44.235
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_2_1",
+        "name": "Meadowbrook",
+        "demographics": {
+          "pop_density": 4064,
+          "seniors_pct": 0.3,
+          "low_income_pct": 0.5,
+          "social_isolation_risk": 0.56
+        },
+        "environment": {
+          "tree_canopy_pct": 0.42,
+          "impervious_surface_pct": 0.4,
+          "avg_surface_temp_summer": 26.9
+        },
+        "assets": {
+          "cooling_centres": 0,
+          "libraries": 0
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.525,
+              44.235
+            ],
+            [
+              -76.5,
+              44.235
+            ],
+            [
+              -76.5,
+              44.2225
+            ],
+            [
+              -76.525,
+              44.2225
+            ],
+            [
+              -76.525,
+              44.235
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_2_2",
+        "name": "Rideau Heights",
+        "demographics": {
+          "pop_density": 5812,
+          "seniors_pct": 0.25,
+          "low_income_pct": 0.79,
+          "social_isolation_risk": 0.15
+        },
+        "environment": {
+          "tree_canopy_pct": 0.11,
+          "impervious_surface_pct": 0.78,
+          "avg_surface_temp_summer": 32.2
+        },
+        "assets": {
+          "cooling_centres": 0,
+          "libraries": 0
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.5,
+              44.235
+            ],
+            [
+              -76.475,
+              44.235
+            ],
+            [
+              -76.475,
+              44.2225
+            ],
+            [
+              -76.5,
+              44.2225
+            ],
+            [
+              -76.5,
+              44.235
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_3_0",
+        "name": "Strathcona Park",
+        "demographics": {
+          "pop_density": 4965,
+          "seniors_pct": 0.12,
+          "low_income_pct": 0.71,
+          "social_isolation_risk": 0.42
+        },
+        "environment": {
+          "tree_canopy_pct": 0.16,
+          "impervious_surface_pct": 0.8,
+          "avg_surface_temp_summer": 32.2
+        },
+        "assets": {
+          "cooling_centres": 1,
+          "libraries": 0
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.55,
+              44.2225
+            ],
+            [
+              -76.525,
+              44.2225
+            ],
+            [
+              -76.525,
+              44.209999999999994
+            ],
+            [
+              -76.55,
+              44.209999999999994
+            ],
+            [
+              -76.55,
+              44.2225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_3_1",
+        "name": "Grenadier",
+        "demographics": {
+          "pop_density": 5512,
+          "seniors_pct": 0.21,
+          "low_income_pct": 0.23,
+          "social_isolation_risk": 0.17
+        },
+        "environment": {
+          "tree_canopy_pct": 0.38,
+          "impervious_surface_pct": 0.51,
+          "avg_surface_temp_summer": 28.2
+        },
+        "assets": {
+          "cooling_centres": 1,
+          "libraries": 0
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.525,
+              44.2225
+            ],
+            [
+              -76.5,
+              44.2225
+            ],
+            [
+              -76.5,
+              44.209999999999994
+            ],
+            [
+              -76.525,
+              44.209999999999994
+            ],
+            [
+              -76.525,
+              44.2225
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
